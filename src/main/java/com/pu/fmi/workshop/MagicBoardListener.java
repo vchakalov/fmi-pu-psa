@@ -1,5 +1,8 @@
 package com.pu.fmi.workshop;
 
+import com.pu.fmi.workshop.toys.Toy;
+import com.pu.fmi.workshop.toys.ToyType;
+
 public class MagicBoardListener {
     private Dwarfs dwarfs;
     private MagicBoard magicBoard;

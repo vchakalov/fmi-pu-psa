@@ -1,5 +1,7 @@
 package com.pu.fmi.workshop;
 
+import com.pu.fmi.workshop.toys.Toy;
+
 public class Main {
     public static void main(String[] args) {
         Workshop workshop = new Workshop();

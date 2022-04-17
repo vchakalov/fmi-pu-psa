@@ -1,4 +1,5 @@
-package com.pu.fmi.workshop;
+package com.pu.fmi.workshop.toys;
+
 
 public class ToyFactory {
     public static Toy createToy(ToyType type) {

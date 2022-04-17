@@ -1,4 +1,4 @@
-package com.pu.fmi.workshop;
+package com.pu.fmi.workshop.toys;
 
 public enum ToyType {
     Bicycle("Колело"),

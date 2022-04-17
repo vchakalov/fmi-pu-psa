@@ -1,5 +1,9 @@
 package com.pu.fmi.workshop;
 
+import com.pu.fmi.workshop.commands.BicycleCommand;
+import com.pu.fmi.workshop.commands.Command;
+import com.pu.fmi.workshop.commands.DollCommand;
+
 import java.util.List;
 
 public class Workshop {

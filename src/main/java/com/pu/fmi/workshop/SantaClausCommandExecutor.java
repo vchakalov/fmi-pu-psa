@@ -1,5 +1,8 @@
 package com.pu.fmi.workshop;
 
+import com.pu.fmi.workshop.commands.Command;
+import com.pu.fmi.workshop.toys.Toy;
+
 import java.util.List;
 
 public class SantaClausCommandExecutor {

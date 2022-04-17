@@ -1,4 +1,8 @@
-package com.pu.fmi.workshop;
+package com.pu.fmi.workshop.commands;
+
+import com.pu.fmi.workshop.MagicBoardListener;
+import com.pu.fmi.workshop.toys.Toy;
+import com.pu.fmi.workshop.toys.ToyType;
 
 public class BicycleCommand implements Command {
     private MagicBoardListener magicBoard;
